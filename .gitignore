@@ -1,4 +1,5 @@
 *.sw*
+.idea*
 PACKAGES
 website/html
 website/reference.txt
