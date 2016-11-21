@@ -90,7 +90,7 @@ ocaml-vorbis
 #ocaml-fdkaac
 
 # FAAD for AAC decoding.
-#ocaml-faad
+ocaml-faad
 
 # FLAC is for flac, native and/or ogg (if using ocaml-ogg)
 # format decoding and encoding.
